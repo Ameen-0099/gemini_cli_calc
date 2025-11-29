@@ -18,7 +18,7 @@ Sync Impact Report:
     - .specify/templates/tasks-template.md ⚠ pending (no changes needed)
   Follow-up TODOs: None
 -->
-# Calculator Project Constitution
+# Calculator Project Constitution files
 
 ## Core Principles
 
